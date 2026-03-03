@@ -1,28 +1,52 @@
-📘 Foundation of Machine Learning
+# 📘 Foundation of Machine Learning
 
-This repository documents my learning journey in Machine Learning fundamentals.
-It contains Jupyter Notebooks, exercises, and practical implementations that helped me build a strong foundation in ML concepts.
+This repository documents my learning journey in **Machine Learning fundamentals (CSE273)**.  
+It contains structured Jupyter Notebooks, exercises, and hands-on implementations that help me build a strong foundation in core ML concepts using Python.
 
-📌 About This Repository
+---
 
-This repo includes:
+## 📌 About This Repository
 
-  • 📊 NumPy fundamentals
+This repository includes:
 
-  • 📈 Data handling and preprocessing basics
+- 📊 NumPy fundamentals  
+- 📈 Pandas for data handling and preprocessing  
+- 🧮 Core mathematical concepts used in Machine Learning  
+- 🤖 Foundational ML-related implementations  
+- 📝 Practice exercises and experimentation  
 
-  • 🧮 Core mathematical concepts used in ML
+All notebooks reflect my personal hands-on learning while exploring foundational Machine Learning concepts.
 
-  • 🤖 Basic machine learning implementations
+---
 
-  • 📝 Practice exercises and experimentation
+## 🟦 NumPy Module
 
-All notebooks reflect my personal learning and hands-on practice while exploring Machine Learning.
+Covers:
 
-🛠️ Tech Stack
+- Array creation and manipulation  
+- Indexing and slicing  
+- Mathematical operations  
+- Broadcasting  
+- Structured exercises for concept clarity  
 
-  • Python
+---
 
-  • NumPy
+## 📊 Pandas Module
 
-  • Jupyter Notebook
+Covers:
+
+- DataFrame creation and handling  
+- Data selection and filtering  
+- Basic data preprocessing  
+- Practical data manipulation exercises  
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python  
+- 📊 NumPy  
+- 📈 Pandas  
+- 📓 Jupyter Notebook  
+
+---
